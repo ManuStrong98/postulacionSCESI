@@ -4,6 +4,6 @@ using namespace std;
 int main()
 {
 	 cout << "holiwis mundo";
-	 cout << "holiwis Bolivia"
+	 cout << "holiwis Bolivia";
 	 return 0;
 }
